@@ -5,3 +5,4 @@
 - Day-1: Expanding Cards [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day1/index.html)
 - Day-2: Progress Steps [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day2/index.html)
 - Day-3: Rotating Navigation [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day3/index.html)
+- Day-4: Hidden Search Widget [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day4/index.html)
