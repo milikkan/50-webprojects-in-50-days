@@ -8,3 +8,4 @@
 - Day-4: Hidden Search Widget [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day4/index.html)
 - Day-5: Blurry Loading [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day5/index.html)
 - Day-6: Scroll Animation [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day6/index.html)
+- Day-7: Split Landing Page [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day7/index.html)
