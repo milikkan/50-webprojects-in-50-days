@@ -10,3 +10,4 @@
 - Day-6: Scroll Animation [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day6/index.html)
 - Day-7: Split Landing Page [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day7/index.html)
 - Day-8: Form Wave Animation [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day8/index.html)
+- Day-9: Sound Board [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day9/index.html)
