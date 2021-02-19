@@ -13,3 +13,4 @@
 - Day-9: Sound Board [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day9/index.html)
 - Day-10: Dad Jokes [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day10/index.html)
 - Day-11: Event KeyCodes [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day11/index.html)
+- Day-12: FAQ Collapse [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day12/index.html)
