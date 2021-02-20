@@ -14,4 +14,5 @@
 - Day-10: Dad Jokes [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day10/index.html)
 - Day-11: Event KeyCodes [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day11/index.html)
 - Day-12: FAQ Collapse [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day12/index.html)
-- Day-13: Random Choice Picker[Demo](https://milikkan.github.io/50-webprojects-in-50-days/day13/index.html)
+- Day-13: Random Choice Picker [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day13/index.html)
+- Day-14: Animated Navigation [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day14/index.html)
