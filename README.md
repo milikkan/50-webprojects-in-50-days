@@ -17,3 +17,4 @@
 - Day-13: Random Choice Picker [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day13/index.html)
 - Day-14: Animated Navigation [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day14/index.html)
 - Day-15: Incrementing Counter [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day15/index.html)
+- Day-16: Drink Water [Demo](https://milikkan.github.io/50-webprojects-in-50-days/day16/index.html)
